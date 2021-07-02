@@ -1,0 +1,11 @@
+.Nutrition {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Rufina;
+    font-style: normal;
+    font-size: 20px;
+}
+.Nutrition img{
+    width: 500px;
+}

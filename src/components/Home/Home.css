@@ -1,0 +1,85 @@
+.AboutPic {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.Home .About {
+    display: flex;
+    flex-direction: column;
+    font-family: Rufina;
+    font-style: normal;
+}
+
+.Home .picture img {
+    width: 400px;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 #2c4147;
+}
+
+.picture:hover {
+    box-shadow: 0 8px 16px 0 #e0b835;
+}
+
+.Home .info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.Home .info .fitness img:hover{
+    box-shadow: 0 8px 16px 0 #e0b835;
+}
+
+.Home .info .food img:hover{
+    box-shadow: 0 8px 16px 0 #e0b835;
+}
+
+.Home .info .rest img:hover{
+    box-shadow: 0 8px 16px 0 #e0b835;
+}
+
+.Home .info .planner img:hover{
+    box-shadow: 0 8px 16px 0 #e0b835;
+}
+
+.Home .info h1 {
+    font-family: Rufina;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Home .info .fitness img{
+    border-radius: 10px;
+    width: 185px;
+    box-shadow: 0 8px 16px 0 #2c4147;
+}
+
+.Home .info .food img{
+    border-radius: 10px;
+    width: 185px;
+    box-shadow: 0 8px 16px 0 #2c4147;
+}
+
+.Home .info .rest img{
+    border-radius: 10px;
+    width: 185px;
+    box-shadow: 0 8px 16px 0 #2c4147;
+}
+
+.Home .info .planner img{
+    border-radius: 10px;
+    width: 185px;
+    box-shadow: 0 8px 16px 0 #2c4147;
+}

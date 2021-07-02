@@ -1,0 +1,26 @@
+.contentS {
+    display: block;
+    width: 500px;
+    background-color: cadetblue;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 #2c4147;
+    height: 150px;
+}
+
+.contentS:hover {
+    box-shadow: 0 8px 16px 0 #0ea38f;
+}
+
+.contentS .Title {
+    padding-top: 10px;
+    color: white;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.contentS .Number {
+    color: white;
+    font-size: 60px;
+    padding-left: 10px;
+    margin-top: -5px;
+}
